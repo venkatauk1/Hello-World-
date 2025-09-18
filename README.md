@@ -1,6 +1,6 @@
 # Hello-World-
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=900&q=80" alt="Futuristic AI Face - Neural Data Overlay" width="500"/>
+  <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=900&q=80" alt="Futuristic AI Face - Neural Data Overlay" width="500"/>
 </p>
 
 <h1 align="center">Hi, I'm Sudha </h1>
