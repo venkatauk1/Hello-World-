@@ -1,6 +1,6 @@
 # Hello-World-
 <p align="center">
-  <img src="assets/images/Hello_image.png" alt="Futuristic AI Brain and Robot Interconnection" width="500"/>
+  <img src="assets/Hello_image.png" alt="Futuristic AI Brain and Robot Interconnection" width="500"/>
 </p>
 
 <h1 align="center">Hi, I'm Sudha </h1>
