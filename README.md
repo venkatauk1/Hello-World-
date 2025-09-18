@@ -47,5 +47,3 @@
 </p>
 
 ---
-
-<sub>Image credit: [Unsplash - AI Face by Drew Graham](https://unsplash.com/photos/photo-1465101046530-73398c7f28ca)</sub>
